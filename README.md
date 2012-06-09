@@ -21,6 +21,16 @@ This projet allows you to easily build Flask apps without sacrificing
 maintainability.
 
 
+## Features
+
+This is what ``flask-skel`` can do for you:
+
+* Basic (nothing fancy is going on here).
+* Intuitive (it's really easy to see where you should put code).
+* Deployable (you can deploy your Flask app locally or on Heroku easily).
+* Testable (you can easily run unit tests against your Flask app).
+
+
 ## Contributing
 
 If you'd like to contribute to the project, simply send a pull request to the
