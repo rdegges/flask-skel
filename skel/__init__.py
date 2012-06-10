@@ -11,4 +11,4 @@ app = Flask(__name__)
 
 # Dynamically load the appropriate environment-specific app settings (defaults
 # to use development settings):
-app.config.from_object(environ.get('FLASK_SETTINGS_MODULE', 'skel.settings.dev.DevConfig'))
+app.config.from_object(environ.get('FLASK_SETTINGS_MODULE', 'skel.settings.DevConfig'))
