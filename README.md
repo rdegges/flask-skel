@@ -7,7 +7,7 @@ An opinionated Flask project skeleton.
 
 * author:   Randall Degges
 * email:    r@rdegges.com
-* license:  UNLICENSE
+* license:  [UNLICENSE](http://unlicense.org/)
 
 
 ## Purpose
