@@ -23,7 +23,7 @@ maintainability.
 
 ## Features
 
-This is what ``flask-skel`` can do for you:
+This is what `flask-skel` can do for you:
 
 * Basic (nothing fancy is going on here).
 * Intuitive (it's really easy to see where you should put code).
