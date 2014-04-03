@@ -34,7 +34,7 @@ This is what `flask-skel` can do for you:
 ## Contributing
 
 If you'd like to contribute to the project, simply send a pull request to the
-``master`` branch.
+`master` branch.
 
 Please keep your code style consistent with the rest of the project:
 
