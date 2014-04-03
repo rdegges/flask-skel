@@ -20,6 +20,16 @@ process.
 This project allows you to easily build Flask apps without sacrificing
 maintainability.
 
+This project is also *highly opinionated*.  This means that it ships with
+support for doing a lot of things a certain way -- *the best way*!  This project
+should allow you to quickly build a website (I'm working on a separate project
+for an API skeleton) -- so if you're planning on building a Flask website,
+you've come to the right place!
+
+Happy hacking :)
+
+&minus; Randall
+
 
 ## Features
 
