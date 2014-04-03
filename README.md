@@ -43,6 +43,6 @@ Please keep your code style consistent with the rest of the project:
 * Single quotes for strings.
 
 Also: since this is a project skeleton, the core purpose is to provide a useful
-base project, without any cruft. This means pull requests adding features that
-are only useful for certain types of applications will be rejected. Keep things
+base project, without any cruft.  This means pull requests adding features that
+are only useful for certain types of applications will be rejected.  Keep things
 simple and generic :)
