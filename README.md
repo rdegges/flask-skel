@@ -13,11 +13,11 @@ An opinionated Flask project skeleton.
 ## Purpose
 
 This project is designed to make building Flask projects simple and
-straightforward. As a Flask user, I often want to write simple applications
+straightforward.  As a Flask user, I often want to write simple applications
 quickly without the going through the typical application bootstrapping
 process.
 
-This projet allows you to easily build Flask apps without sacrificing
+This project allows you to easily build Flask apps without sacrificing
 maintainability.
 
 
