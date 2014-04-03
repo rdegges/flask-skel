@@ -6,7 +6,7 @@ An opinionated Flask project skeleton.
 ## Meta
 
 * author:   Randall Degges
-* email:    rdegges@gmail.com
+* email:    r@rdegges.com
 * license:  UNLICENSE
 
 
