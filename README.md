@@ -1,6 +1,6 @@
 # flask-skel
 
-A simple Flask project skeleton.
+An opinionated Flask project skeleton.
 
 
 ## Meta
